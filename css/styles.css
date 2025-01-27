@@ -110,6 +110,11 @@ address ul li a {
   color: #434455;
 }
 
-address ul li a:hover {
+address ul li a:hover,
+address ul li a:active {
   color: #404bbf;
+}
+
+.address {
+    font-style: normal;
 }
