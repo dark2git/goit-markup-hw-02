@@ -71,7 +71,6 @@ a {
 }
 
 a:hover {
-  font-weight: 400; /* delete this  */
   color: #404bbf;
 }
 
