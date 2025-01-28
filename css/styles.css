@@ -130,3 +130,12 @@ address ul li a:active {
   color: #ffffff;
 }
 
+.section-three {
+  background-color: #F4F4FD;
+}
+
+.sec-three_main-header {
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+}
