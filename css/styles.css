@@ -83,17 +83,22 @@ nav ul li a {
   color: #2e2f42;
 }
 
-nav ul li a:hover {
+nav ul li a:hover,
+nav ul li a:active {
   color: #404bbf;
 }
 
-button {
+.order-button {
   cursor: pointer;
   background: #4d5ae5;
   color: white;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
-button:hover {
+.order-button:hover,
+.order-button:focus {
   background: #404bbf;
 }
 
@@ -113,3 +118,14 @@ address ul li a:active {
 .address {
     font-style: normal;
 }
+
+.section-one {
+  background-color: #2e2f42;
+}
+
+.section-one_header {
+  line-height: 1.07;
+  text-align: center;
+  color: #ffffff;
+}
+
