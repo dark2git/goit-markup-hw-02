@@ -31,6 +31,10 @@ h6 {
   font-family: "Roboto", sans-serif;
 }
 
+ul {
+  list-style: none;
+}
+
 h1,
 .title {
   font-weight: 700;
@@ -61,7 +65,7 @@ a {
   font-size: 12px;
   line-height: 1.33333;
   letter-spacing: 0.04em;
-  text-decoration: underline;
+  text-decoration: none;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
 }
@@ -155,3 +159,4 @@ address ul li a:active {
 .sec-par {
   font-size: 16px
 }
+
