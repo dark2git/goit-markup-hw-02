@@ -23,7 +23,7 @@ body {
 }
 
 .spanlogo {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
 h1,
@@ -138,4 +138,8 @@ address ul li a:active {
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+}
+
+.basement-paragraph {
+  color: #F4F4FD;
 }
