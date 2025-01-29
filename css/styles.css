@@ -23,7 +23,7 @@ body {
 }
 
 .spanlogo {
-  color: #f4f4fd;
+  color: #2e2f42;
 }
 
 h1,
@@ -134,12 +134,36 @@ address ul li a:active {
   background-color: #F4F4FD;
 }
 
-.sec-three_main-header {
+.sec-main-header {
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
 }
 
+.basement{
+  background-color: #2e2f42;
+}
+
+.basement .spanlogo {
+  color: #f4f4fd;
+}
+
 .basement-paragraph {
   color: #F4F4FD;
+}
+
+.sec-three_list-item {
+  background-color: #FFFFFF;
+}
+
+/* .sec-h3 {
+
+} */
+
+.sec-p {
+  font-size: 16px
+}
+
+.sec-four_main-header { 
+
 }
